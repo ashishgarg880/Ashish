@@ -1,0 +1,58 @@
+.body{margin:0px;}
+.bg{padding:10px;background-attachment:fixed;border-radius:0;border:0;transition:.6s;}
+.nv{position:fixed;}
+.nv h4{margin-left:16px;}
+.nv p{margin-left:16px;}
+.nav li a{color:black;text-decoration:none;background-color:white;font-size:15px;}
+.tx{color:green;}
+.ab{background-color:black;color:white;}
+.bb{border-radius:5px;width:40%;margin-left:16px;}
+.jy{margin-right:7px;}
+.dropdown:hover .dropdown-menu{display:block;background:purple;border-radius:0;border:0;}
+.bd{border:1px solid lightgrey;background-color:lightgrey;}
+.mm{padding:10px;transform:x}
+.uy{text-decoration:none;
+
+	color:white;
+	background-color:grey;
+	padding:20px;
+	margin:10px;
+}
+.header{font-weight:bold;}
+.uy:hover{color:white;background-color:lightgrey;}
+
+.ml h4{font-weight:bold;}
+.ml p{font-size:16px;padding-top:20px;}
+.ml progress{width:100%;padding:15px;color:white;}
+.hr{border:100%;}
+.jm{background-color:white;border:1px solid lightgrey;padding:0px;margin:5px;width:32%;}
+.im:hover{opacity:.7;}
+.im{width:100%;}
+.lm{text-align:center;margin:20px;font-size:20px;}
+.lm a{color:black;text-decoration:none;padding:10px;}
+.lm a:hover{background-color:black;color:white;}
+.im:hover{transition:.6s;}
+.zx{margin-left:10px;}
+.mju{font-size:20px;margin-left:10px;}
+.mn{text-decoration:none; opacity: .5}
+.mn li{text-align:center;border:1px solid black;padding:20px;vertical-align:middle;background-color:white;}
+.mn:hover{opacity:1;}
+.nav .pro{color:white;padding:30px;background-color:#3DF2EA;}
+.nav .pre{color:white;padding:30px;background-color:#383D34;}
+.bt{background-color:skyblue;color:white;padding-left:15px;padding-right:15px;border:0;}
+.bt:hover{background-color:black;color:white;}
+.nav .jh{color:white;background-color:#383D34;padding:30px;}
+.ml{margin-top:40px;}
+.yj{color:white;background-color:#545D5C;width:100%;text-align:center;}
+.md{background-color:grey;margin-top:20px;}
+.md p{margin-top:20px;}
+.md b{font-size:20px;padding:20px;}
+.xz{background-color:#545D5C;text-align:center;color:white;}
+.zz{background-color:#309D91;text-align:center;color:white;}
+.tt{font-size:18px;}
+.az{width:100%;padding:10px;}
+.bt2{font-size:20px;color:white;}
+.bt2 button{background-color:black;border:0;padding:10px;}
+.bt2 button:hover{background-color:grey;}
+.op{color:white;float:left;}
+.img{width:50px;}

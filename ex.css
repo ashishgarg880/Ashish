@@ -1,0 +1,15 @@
+.menu{background:#eeeeee;position:fixed;}
+
+.menu .nav li a{color:black;font-family:Baskerton;font-weight:bold;padding-top:15px;}
+.menu .nav li a:hover{color:brown;background-color:grey;}
+.txt{box-shadow:10px 20px solid blue;}
+.im1{margin-top:55px;}
+
+.dropdown-menu{background:; border-radius:6px;border:2px;}
+.menu .dropdown:hover .dropdown-menu{
+   display: block;line
+}
+.nav{background-color:#ccc;text-align:center;font-weight:bold;}
+.gg{background-color:purple;float:left;padding:10px;}
+.gg font{text-align:left;}
+.nn{text-align:left;width:50%;float:left;padding:10px;}

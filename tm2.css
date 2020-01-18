@@ -1,0 +1,14 @@
+.bg{background:url(../photo/map.jpg);
+     background-size:100% 100%;
+     padding-top:60px;
+     padding-bottom:90px;
+
+    }
+.vb{border:2px solid white;margin:80px;padding:10px;border:2px solid black;}
+.txt div button{color:white; background:black;padding:20px;border:0;}
+.txt div button:hover{background-color:#ccc;color:black;}
+.txt {color:white;background-color:black; padding:0; margin-top:10px; }
+.gc{font-size:20px;color:white;margin-top:15px;}
+.gb{font-size:16px;padding:10px;width:100%;margin-top:10px;}
+.bt{background-color:white;margin-top:20px;width:10%;border:0;padding:10px;}
+.bt:hover{background-color:#ccc;}

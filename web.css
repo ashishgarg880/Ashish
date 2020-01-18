@@ -1,0 +1,43 @@
+body{
+	margin:0px;
+	background-color:lightgrey;
+}
+.yy{
+	padding:3px;
+}
+.hd{
+	margin:15px;
+
+}
+.im{
+	width:100%;
+}
+.nm{
+	margin-top:-20px;
+}
+.pr{
+	width:100%;
+}
+.et{
+	margin-top:10px;
+}
+.e{
+	color:#555F5E;	
+
+}
+.ee{
+	font-size:18px;
+	color:#555F5E;	
+}
+.cl{
+	color:white;
+	background-color:#499D90;
+	border-radius:3px;
+	padding:4px;
+}
+.clr{
+	color:#29CAB9;	
+}
+.pd{
+	margin-top:20px;
+}
