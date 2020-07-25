@@ -1,0 +1,26 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+.bgimg{
+	background-image:url(../Photo/2.jpg);
+	background-size:100% 100%;
+	background-attachment:fixed;
+	height:550px;
+}
+
+.top-nav li a:hover{
+	background-color:lighter;
+	border-radius:25%;
+	color: gold;
+
+}
+
+.top-nav li{
+	margin-right:10px;
+	color:gold;
+}
+
+
