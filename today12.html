@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Scale into icon with video Bg</title>
+	<link rel="stylesheet" type="text/css" href="css/today12.css">
+</head>
+<body>
+	<div class="banner">
+		<video autoplay="" muted="" loop="" >
+			<source src="video/pexe.mp4" type="video/mp4">
+		</video>
+		<div id="bg"></div>
+	</div>
+	<script type="text/javascript">
+		let bg = document.querySelector('#bg');
+		window.addEventListener('scroll',function(){
+			let value = window.scrollY;
+			bg.style.backgroundSize = 100 + value*2 +"px";
+		})
+	</script>
+</body>
+</html>
